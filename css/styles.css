@@ -1,0 +1,46 @@
+body{
+    background-color:green;
+    color:white;
+}
+header, main, nav, footer{
+    text-align: center;
+}
+#os{
+    float:left;
+}
+footer{
+    color: black;
+    clear: left;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h3{
+    font-family: 'Lucida Grande', sans-serif;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: yellow;
+}
+nav a:hover{
+    font-size: 1.9em;
+    transition: .2s;
+    border-bottom: 1px orange solid;
+}
