@@ -39,6 +39,7 @@
             <strong>Disclaimer:</strong> The information in this webpage
             is fictitous. <br />
             It is used for academic purposes only.
+            Sources: https://en.wikipedia.org/wiki/Operating_system
         </footer>
     </body>
 </html>
